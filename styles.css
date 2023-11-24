@@ -215,10 +215,11 @@
       margin-left: 0;
       font-size: 1rem; /* Ajusta el tamaño de la fuente en dispositivos móviles */
       padding: 8px 15px;
+      margin-right: 5px;
     }
   
     .shopping-form input {
-      margin-right: 1px;
+      margin-right: 0px;
       margin-bottom: 10px;
       font-size: 1rem;
     }
