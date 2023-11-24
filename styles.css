@@ -185,7 +185,7 @@
   @media (max-width: 768px) {
     .container {
         max-width: 100%;
-        padding: 15px;
+        padding: 2%;
     }  
     .shopping-form {
         background: #0d79b8;
@@ -213,8 +213,8 @@
       border-radius: 0 4px 4px 0;
       width: auto;
       margin-left: 0;
-      font-size: 1rem; /* Ajusta el tamaño de la fuente en dispositivos móviles */
-      padding: 8px 15px;
+      font-size: 1.2rem; /* Ajusta el tamaño de la fuente en dispositivos móviles */
+      padding: 2% 5%; /* Ajusta el padding en dispositivos móviles */
       margin-right: 5px;
     }
   
